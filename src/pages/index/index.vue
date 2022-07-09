@@ -81,10 +81,7 @@
         >
       </view>
     </view>
-    <view class=".M_c">
-
-      
-    </view>
+    <view class="M_c"> </view>
   </view>
 </template>
 
